@@ -1,0 +1,26 @@
+
+h1 {
+border: solid;
+color: brown;
+background-color: pink;
+text-align: center;
+}
+
+nav ul {
+  border: solid;
+}
+nav li {
+  display: inline-block;
+  margin: 25px
+}
+nav li {
+  display: inline-block;
+  margin: 15px
+}
+.home {
+  border-right: solid;
+  padding-right: 25px;
+}
+.scary {
+  color: red;
+}
